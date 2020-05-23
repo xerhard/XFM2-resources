@@ -7,6 +7,8 @@
 The XFM2 Synthesizer Module is a 64-voice, 2-part, 6-operator FM Synthesizer with built-in effects processor, built on an FPGA chip.
 It is the second generation of the XFM DIY Synthesizer Project by René Ceballos.
 
+![The XFM2 Synthesizer Module](https://images.squarespace-cdn.com/content/v1/5d2c7309e3281e0001ef5655/1580208887777-8CBUTCQ4F8ECP4IU7OVB/ke17ZwdGBToddI8pDm48kPLerjwc9T00S19UIx4D7DV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UWQaL5Zc965r8V2AH38PHUO8HP8IE1QJFP1I8jNvddiftNpR-oeFwj2Ae_lbqFbpxA/82940548_10213084820194329_1373900380894658560_o.jpg?format=1500w)
+
 In short the XFM2 houses 2 independent 32 voice DX7's on steroids with an impressive sound quality.
 
 However next to the possibility to mimic a DX7, the XFM2 is far more sophisticated with more complex modulation and feedback possibilities. If you are in doubt to build one, put a hundred bucks aside and read the manual.
