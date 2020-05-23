@@ -58,7 +58,7 @@ XFM2UI is an Arduino menu driven user interface for all XFM2 parameters. It is b
 ### XFM2_patches
 json patch files for the XFM2
 
--[XFM2_patches](https://github.com/xerhard/XFM2_patches)
+- [XFM2_patches](https://github.com/xerhard/XFM2_patches)
 
 ### DX7syx-to-XFM2patches
 Quick and dirty convertion of DX7 sysex files containing 32 presets into XFM2 json patch files.
