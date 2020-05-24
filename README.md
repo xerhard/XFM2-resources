@@ -40,7 +40,7 @@ Therefore there are some projects started with several solutions to expand the p
 ## Hard and software projects
 
 ### xfm2controller
-A controller for the XFM2 Synthesizer using Qt 5.12
+A controller for the XFM2 Synthesizer using Qt 5.12, designed for RaspberryPi but also runs on Desktop (windows or Linux)
 
 - [xfm2controller](https://github.com/ataristdude/xfm2controller)
 
