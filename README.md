@@ -27,7 +27,7 @@ A user manual, installation guide, and the binaries that have to be loaded into 
 
 The XFM2 is very well documented, but there is no GUI other then a spreadsheet to change parameters and set presets.
 
-Therefore there are some projects started with several solutions to expand the posabilities of the XFM2
+Therefore there are some projects started with several solutions to expand the possibilities of the XFM2
 
 
 
