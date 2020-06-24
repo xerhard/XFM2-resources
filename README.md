@@ -39,6 +39,11 @@ Therefore there are some projects started with several solutions to expand the p
 
 ## Hard and software projects
 
+### XFM2_Editor_Librarian
+A full desktop GUI for the XFM2 build on CTRLR https://ctrlr.org/ next to a DX7 to XFM2 converter.
+
+- [XFM2_Editor_Librarian](https://github.com/rheslip/XFM2_Editor_Librarian)
+
 ### xfm2controller
 A controller for the XFM2 Synthesizer using Qt 5.12, designed for RaspberryPi but also runs on Desktop (windows or Linux)
 
@@ -65,12 +70,6 @@ Quick and dirty convertion of DX7 sysex files containing 32 presets into XFM2 js
 
 - [DX7syx-to-XFM2patches](https://github.com/xerhard/DX7syx-to-XFM2patches)
 
-
 ### XFM2_GetterSetter
 small JavaFX application to read/write & text edit XFM2 json patches
 - [XFM2_GetterSetter](https://github.com/xerhard/XFM2_GetterSetter)
-
-### XFM2_Editor_Librarian
-A full desktop GUI for the XFM2 build on CTRLR https://ctrlr.org/ next to a DX7 to XFM2 converter.
-- [XFM2_Editor_Librarian](https://github.com/rheslip/XFM2_Editor_Librarian)
-
