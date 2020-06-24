@@ -43,6 +43,7 @@ Therefore there are some projects started with several solutions to expand the p
 A full desktop GUI for the XFM2 build on CTRLR https://ctrlr.org/ next to a DX7 to XFM2 converter.
 
 - [XFM2_Editor_Librarian](https://github.com/rheslip/XFM2_Editor_Librarian)
+- [Explanation of the XFM2 and demo of the XFM2_Editor_Librarian on YouTube](https://www.youtube.com/watch?v=Ny7eByV2aGQ)
 
 ### xfm2controller
 A controller for the XFM2 Synthesizer using Qt 5.12, designed for RaspberryPi but also runs on Desktop (windows or Linux)
