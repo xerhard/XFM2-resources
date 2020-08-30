@@ -35,7 +35,7 @@ Therefore there are some projects started with several solutions to expand the p
 
 [XFM2 on Gearlutz](https://www.gearslutz.com/board/electronic-music-instruments-and-electronic-music-production/1297008-xfm2-fgpa-based-fm-synth-1.html)
 
-[Slack Channel for XFM2](https://join.slack.com/t/xfm2/shared_invite/zt-dmrs50h3-34WvYiWgPBWruNXSXLYgBg)
+[Slack Channel for XFM2](https://join.slack.com/t/xfm2/shared_invite/zt-dmrs50h3-34WvYiWgPBWruNXSXLYgBg)  if not vaild anymore send me a mail, see profile
 
 ## Hard and software projects
 
