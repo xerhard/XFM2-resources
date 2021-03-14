@@ -61,6 +61,10 @@ XFM2UI is an Arduino menu driven user interface for all XFM2 parameters. It is b
 
 - [XFM2UI](https://github.com/mlinton/XFM2UI)
 
+### XFM2Java
+Richard Shipman's utility program to access XFM2 over serial. Build in single java class file.
+- [XFM2Java](https://github.com/RichardShipman/XFM2Java)
+
 ### XFM2_patches
 json patch files for the XFM2
 
@@ -71,6 +75,7 @@ Quick and dirty convertion of DX7 sysex files containing 32 presets into XFM2 js
 
 - [DX7syx-to-XFM2patches](https://github.com/xerhard/DX7syx-to-XFM2patches)
 
-### XFM2_GetterSetter
+### XFM2_GetterSetter  
 small JavaFX application to read/write & text edit XFM2 json patches
+Can be used as a platform independent alternative for the Excel spreadsheet delivered with the XFM2 documentation
 - [XFM2_GetterSetter](https://github.com/xerhard/XFM2_GetterSetter)
