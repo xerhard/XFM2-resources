@@ -76,6 +76,7 @@ Quick and dirty convertion of DX7 sysex files containing 32 presets into XFM2 js
 - [DX7syx-to-XFM2patches](https://github.com/xerhard/DX7syx-to-XFM2patches)
 
 ### XFM2_GetterSetter  
-small JavaFX application to read/write & text edit XFM2 json patches
+small JavaFX application to read/write & text edit XFM2 json patches.
+
 Can be used as a platform independent alternative for the Excel spreadsheet delivered with the XFM2 documentation
 - [XFM2_GetterSetter](https://github.com/xerhard/XFM2_GetterSetter)
