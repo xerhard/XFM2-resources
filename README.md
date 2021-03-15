@@ -80,6 +80,17 @@ XFM2UI is an Arduino menu driven user interface for all XFM2 parameters. It is b
 
 ---
 
+### XFM2GUI
+
+![XFM2GUI](https://github.com/xerhard/XFM2-resources/blob/master/images/XFM2GUI.png "XFM2GUI")
+
+A multi-platform Desktop GUI in Java.
+(The README is not in sync with the source code, but it runs at least on Linux)
+
+- [XFM2GUI](https://github.com/SteadiestLlama/XFM2GUI)
+
+---
+
 ### XFM2Java
 
 ![XFM2Java](https://github.com/xerhard/XFM2-resources/blob/master/images/XFM2Java.png "XFM2Java")
