@@ -35,33 +35,55 @@ Therefore there are some projects started with several solutions to expand the p
 
 [XFM2 on Gearlutz](https://www.gearslutz.com/board/electronic-music-instruments-and-electronic-music-production/1297008-xfm2-fgpa-based-fm-synth-1.html)
 
-[Slack Channel for XFM2](https://join.slack.com/t/xfm2/shared_invite/zt-dmrs50h3-34WvYiWgPBWruNXSXLYgBg)  if not vaild anymore send me a mail, see profile
+[Slack Channel for XFM2](https://join.slack.com/t/xfm2/shared_invite/zt-dmrs50h3-34WvYiWgPBWruNXSXLYgBg)  (if not vaild anymore send me a mail, see profile)
 
 ## Hard and software projects
 
 ### XFM2_Editor_Librarian
+
+![XFM2Editor GUI](https://github.com/xerhard/XFM2-resources/blob/master/images/XFM2Editor.png "XFM2Editor GUI")
+
 A full desktop GUI for the XFM2 build on CTRLR https://ctrlr.org/ next to a DX7 to XFM2 converter.
 
 - [XFM2_Editor_Librarian](https://github.com/rheslip/XFM2_Editor_Librarian)
 - [Explanation of the XFM2 and demo of the XFM2_Editor_Librarian on YouTube](https://www.youtube.com/watch?v=Ny7eByV2aGQ)
 
+---
+
 ### xfm2controller
+
+![xfm2controller GUI](https://github.com/xerhard/XFM2-resources/blob/master/images/XFM2Qt.png "xfm2controller GUI")
+
 A controller for the XFM2 Synthesizer using Qt 5.12, designed for RaspberryPi but also runs on Desktop (windows or Linux)
 
 - [xfm2controller](https://github.com/ataristdude/xfm2controller)
 
+---
 
 ### A simple Arduino-based XFM2 front panel
+
+![XFM2Arduino GUI](https://github.com/xerhard/XFM2-resources/blob/master/images/XFM2Arduino.png "XFM2Arduino GUI")
+
 an Arduino interface, as minimal as possible (but still user-friendly and useful)
 
 - [XFM2interface](https://github.com/dylanmc/XFM2interface)
 
+---
+
 ### XFM2UI
+
+![XFM2UI](https://github.com/xerhard/XFM2-resources/blob/master/images/XFM2UI.jpeg "XFM2UI")
+
 XFM2UI is an Arduino menu driven user interface for all XFM2 parameters. It is based on Teensy 4.0
 
 - [XFM2UI](https://github.com/mlinton/XFM2UI)
 
+---
+
 ### XFM2Java
+
+![XFM2Java](https://github.com/xerhard/XFM2-resources/blob/master/images/XFM2Java.png "XFM2Java")
+
 Richard Shipman's utility program to access XFM2 over serial. Build in single java class file.
 - [XFM2Java](https://github.com/RichardShipman/XFM2Java)
 
