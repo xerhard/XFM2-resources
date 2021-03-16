@@ -100,6 +100,18 @@ Richard Shipman's utility program to access XFM2 over serial. Build in single ja
 
 ---
 
+### Xsynth
+
+![Xsynth](https://github.com/xerhard/XFM2-resources/blob/master/images/Xsynth.png "Xsynth")
+
+Another commandline tool, this is written in Kotlin by MacMannes.
+
+He is now building a [hardware solution](https://lookmumnocomputer.discourse.group/t/xva1-user-interface-build-progress/2770) but now for the [XVA1](https://www.futur3soundz.com/), which is a virtual analog synth wich runs on the same hardware as the XFM2.
+
+- [Xsynth on Github](https://github.com/MacMannes/XSynth)
+
+---
+
 ### XFM2_patches
 json patch files for the XFM2
 
