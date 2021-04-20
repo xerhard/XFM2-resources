@@ -41,6 +41,21 @@ Therefore there are some projects started with several solutions to expand the p
 
 ## Hard and software projects
 
+---
+
+### dXFM2
+
+![dXFM2 panel](https://github.com/architolk/fm-synth/blob/main/media/OPS-Volume.png)
+
+A very interesting hardware implementation of a user interface for the XFM2 with a lot of visual feedback
+
+See the video where Marco Brattinga demonstrates his hardware interface and explains his design philosophy
+
+- [dXFM2](https://github.com/architolk/fm-synth)
+- [dXFM2 demo](https://www.youtube.com/watch?v=aivNT1PkcIQ)
+
+---
+
 ### XFM2_Editor_Librarian
 
 ![XFM2Editor GUI](https://github.com/xerhard/XFM2-resources/blob/master/images/XFM2Editor.png "XFM2Editor GUI")
