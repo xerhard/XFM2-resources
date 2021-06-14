@@ -43,6 +43,16 @@ Therefore there are some projects started with several solutions to expand the p
 
 ---
 
+### PCB(s) for the XFM2/XVA1 Project
+
+![3D Render](https://user-images.githubusercontent.com/884834/114622434-3efde000-9cae-11eb-929d-81e718634022.jpg)
+
+Two XFM2/XVA1 PCB designs. One basic and an extended version
+
+- [PCB(s) for the XFM2/XVA1 Project](https://github.com/bzeiss/xfm2-pcbs)
+
+---
+
 ### dXFM2
 
 ![dXFM2 panel](https://github.com/architolk/fm-synth/blob/main/media/OPS-Volume.png)
